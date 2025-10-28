@@ -5,7 +5,7 @@
 // ----------------------------------------------
 
 // -------------------- TORRE --------------------
-// Move recursivamente para a direita
+// Move a torre recursivamente para a direita
 void moverTorre(int casas) {
     if (casas == 0) return; // Caso base da recursão
 
